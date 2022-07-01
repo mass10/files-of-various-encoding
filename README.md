@@ -1,1 +1,2 @@
-# files-of-various-encoding
+# About
+さまざまなエンコーディングのファイルをどう管理するか
