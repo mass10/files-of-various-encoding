@@ -1,1 +1,2 @@
-*.rc working-tree-encoding=UTF-16LE-BOM eol=CRLF
+/*.rc working-tree-encoding=UTF-16LE-BOM eol=CRLF
+/Windows Resource Files/Win32Project1/*.rc working-tree-encoding=UTF-16LE-BOM eol=CRLF
